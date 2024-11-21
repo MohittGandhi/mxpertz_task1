@@ -1,0 +1,1 @@
+ D:\\mxpertz_task1\\.dart_tool\\flutter_build\\c3b8d9533368009240a3933855e58b83\\native_assets.yaml: 
